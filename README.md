@@ -3,7 +3,9 @@ Using React to create a simple task list application that allow users to manage 
 ----------------
 How to open?
 1. Download the files.
-2. Go to the directory links and type 'npm run dev'
-3. Click the localhost link.
+2. In the VS code create a new folder and replace the 'src' files.
+3. Open a new terminal in VS code.
+4. Go to the directory links and type 'npm run dev'
+5. Click the localhost link.
 
 This task list application consists of common features: add, edit, delete and other features such as filter, input validation and store the data into local storage.
